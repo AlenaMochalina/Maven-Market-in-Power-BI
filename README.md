@@ -3,6 +3,7 @@
 Tento projekt analyzuje data z Maven Market, nadnárodního řetězce potravin s pobočkami v Kanadě, Mexiku a Spojených státech. 
 ## O datové sadě
 Datová sada obsahuje: 
+
 **Informace o zákaznících:** věk, pohlaví, rodinný stav, příjmová kategorie, adresa, dosažené vzdělání. 
 
 **Informace o zboží:** cena, značka, název.
@@ -26,4 +27,4 @@ Které značky zboží generují největší příjmy?
 Jaké regiony mají nejvyšší prodeje?
 Jaké trendy lze pozorovat v jednotlivých časových obdobích?
 
-### Kontakt Tento projekt jsem vytvořila jako ukázku své práce v Power BI. Pokud máte jakékoliv dotazy nebo zpětnou vazbu, neváhejte mě kontaktovat. 
+### Tento projekt jsem vytvořila jako ukázku své práce v Power BI. Pokud máte jakékoliv dotazy nebo zpětnou vazbu, neváhejte mě kontaktovat. 
