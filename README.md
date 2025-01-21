@@ -4,12 +4,16 @@ Tento projekt analyzuje data z Maven Market, nadnárodního řetězce potravin s
 ## O datové sadě
 Datová sada obsahuje: 
 **Informace o zákaznících:** věk, pohlaví, rodinný stav, příjmová kategorie, adresa, dosažené vzdělání. 
+
 **Informace o zboží:** cena, značka, název.
+
 **Informace o prodejních domech:** země, regiony.
 
 ## Průběh projektu
  **Datový sklad:** Po důkladném preprocesingu dat jsem vytvořila datový sklad, který si můžete prohlédnout zde: **[Datový sklad v Power BI](https://github.com/AlenaMochalina/Maven-Market-in-Power-BI/blob/main/Datov%C3%BD%20sklad%20v%20Power%20BI.png)**
+ 
 **Práce s DAX:** Pomocí jazyka DAX jsem vytvořila kalkulované tabulky, které si můžete prohlédnout zde: **[Práce v DAX](https://github.com/AlenaMochalina/Maven-Market-in-Power-BI/blob/main/Pr%C3%A1ce%20v%20DAX.png)**
+
 **Interaktivní dashboard:** Vytvořila jsem interaktivní dashboard, který umožňuje analyzovat příjmy, transakce podle značek zboží, zemí a časových úseků. **[Interaktivní dashboard v Power BI](https://github.com/AlenaMochalina/Maven-Market-in-Power-BI/blob/main/Interaktivn%C3%AD%20dashboard%20v%20Power%20BI.png)**
 
 ## Jak otevřít projekt v Power BI
